@@ -1,80 +1,124 @@
 # Hi, I'm Tikaram Mahto
 
-Freelance Developer | Python | AI/ML | Azure Cloud | Backend & APIs | DevOps | Web Accessibility
+Freelance Developer | Python | AI/ML | Azure Cloud | Backend & APIs | Web Accessibility
 
 ## About Me
 
-I'm a freelance developer and technology learner focused on building practical solutions with Python, AI/ML, Azure Cloud, backend development, APIs, DevOps, and web accessibility.
+I'm a freelance developer with an interest in Python, AI/ML, Azure Cloud, backend development, APIs, DevOps, and web accessibility.
 
-I enjoy learning new technologies, building real-world projects, and exploring accessible and secure ways to develop software.
+I gained professional experience as an APIM Developer Intern at Kohler India, working with Azure API Management and related API development and cloud technologies.
 
-I'm also interested in helping blind users access computers, laptops, and mobile devices using assistive technologies and screen readers such as JAWS, NVDA, and Orca.
+I enjoy building practical projects, learning new technologies, and developing secure, scalable, and accessible software.
+
+As a visually impaired technology enthusiast, I also have a strong interest in accessibility and assistive technologies. I use screen readers and accessibility tools to test and explore how websites and software work for users with disabilities.
 
 > “A bend in the road is not the end of the road… Unless you fail to make the turn.”
 
-## Technical Interests
+## Core Skills and Interests
 
 * Python
-* AI/ML
-* Generative AI
-* Azure Cloud
 * Backend Development
 * REST APIs
 * FastAPI
-* DevOps
-* Git & GitHub
+* Azure API Management
+* Azure Cloud
+* AI and Machine Learning
+* Git and GitHub
+* DevOps and Automation
 * Web Accessibility
 * WCAG
 * Accessibility Testing
 
-## Featured Projects
+## Technologies I Work With and Explore
 
-### RAG AI App
+### Programming and Development
 
-A Retrieval-Augmented Generation application using LangChain and ChromaDB for document-based question answering with large language models.
+* [Python](https://www.python.org/)
+* [FastAPI](https://fastapi.tiangolo.com/)
+* [Java](https://www.java.com/)
+* [Git](https://git-scm.com/)
+* [GitHub](https://github.com/)
 
-### Web Accessibility
+### AI and Machine Learning
 
-A project focused on identifying and addressing web accessibility issues using automated accessibility analysis.
+* [Scikit-learn](https://scikit-learn.org/)
+* [TensorFlow](https://www.tensorflow.org/)
+* [PyTorch](https://pytorch.org/)
+* [LangChain](https://www.langchain.com/)
+* [Chroma](https://www.trychroma.com/)
 
-### Python Practice
+### Cloud and DevOps
 
-Python programming exercises covering fundamentals, object-oriented programming, data structures, iterators, generators, and practical examples.
-
-### Java Practice
-
-Java programming exercises covering core Java concepts and practical coursework.
-
-## Cloud & DevOps
-
-I'm building my knowledge and practical experience in cloud computing, Azure, DevOps, automation, and secure system design.
+* [Microsoft Azure](https://azure.microsoft.com/)
+* [Docker](https://www.docker.com/)
+* [Kubernetes](https://kubernetes.io/)
+* [Jenkins](https://www.jenkins.io/)
 
 ## Accessibility
 
-I'm interested in making technology more accessible and learning how assistive technologies work with software and websites.
+I'm interested in web accessibility, accessibility testing, and making digital products more usable with assistive technologies.
 
-Areas of interest include:
+My accessibility experience and interests include:
 
-* JAWS
-* NVDA
-* Orca
+* [NVDA](https://www.nvaccess.org/)
+* [JAWS](https://www.freedomscientific.com/products/software/jaws/)
+* [Orca](https://help.gnome.org/users/orca/stable/)
 * TalkBack
 * VoiceOver
-* WCAG
-* Accessibility Testing
+* [axe](https://www.deque.com/axe/)
+* [Web Content Accessibility Guidelines (WCAG)](https://www.w3.org/WAI/standards-guidelines/wcag/)
+* Accessibility testing with keyboard and screen readers
+
+## Certifications
+
+* Microsoft Certified: Azure Fundamentals (AZ-900)
+* DHS Section 508 Trusted Tester Certification
+
+## Professional Experience
+
+### Kohler India — APIM Developer Intern
+
+Worked as an APIM Developer Intern with exposure to:
+
+* Azure API Management
+* API development and management
+* Cloud technologies
+* API security and policies
+* DevOps and automation concepts
+
+## Featured Projects
+
+### [RAG AI App](https://github.com/tika949898/rag-ai-app)
+
+A Retrieval-Augmented Generation application using LangChain and ChromaDB for document-based question answering with large language models.
+
+### [Web Accessibility](https://github.com/tika949898/web-accessibility)
+
+A project focused on identifying and addressing web accessibility issues using automated accessibility analysis.
+
+### [Python Practice](https://github.com/tika949898/pythonPractice)
+
+Python programming exercises covering fundamentals, object-oriented programming, data structures, iterators, generators, and practical examples.
+
+### [Java Practice](https://github.com/tika949898/java-practice)
+
+Java programming exercises covering core Java concepts and practical coursework.
 
 ## Currently Learning
+
+I'm continuing to develop my practical knowledge in:
 
 * Machine Learning
 * Deep Learning
 * Generative AI
-* Cloud Computing
-* Backend Development
-* DevOps
+* TensorFlow and PyTorch
+* Azure Cloud
+* DevOps and automation
+* Docker and Kubernetes
 * Web Accessibility and WCAG
 
 ## Connect With Me
 
-* Portfolio: https://tikarammahto.in/
-* LinkedIn: https://www.linkedin.com/in/tikarammahto/
-* X: https://x.com/tika949898
+* [Portfolio](https://tikarammahto.in/)
+* [LinkedIn](https://www.linkedin.com/in/tikarammahto/)
+* [X](https://x.com/tika949898)
